@@ -1,0 +1,16 @@
+{
+    "name": "Warlord Esport",
+    "short_name": "Warlord",
+    "description": "Warlord PWA",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#FF0000",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "warlord.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
